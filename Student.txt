@@ -1,0 +1,42 @@
+
+===================Student Deatails/ (Student.txt)=====================
+
+
+
+
+First Name - dinesh
+Last Name - abey
+Date of Birth - 1992/09/20
+Address - kandy
+
+-------------------------------------------------------------------
+First Name - mahesh
+Last Name - lakmal
+Date of Birth - 1777-10-10
+Address - colombo 10
+-------------------------------------------------------------------
+First Name - hansi
+Last Name - nila
+Date of Birth - 1222-22-22
+Address - jaffna
+
+-------------------------------------------------------------------
+First Name - anu
+Last Name - lak
+Date of Birth - 5677
+Address - kegalla
+-------------------------------------------------------------------
+First Name - abc
+Last Name - sde
+Date of Birth - 122
+Address - abe
+-------------------------------------------------------------------
+First Name - lalith
+Last Name - manha
+Date of Birth - 688
+Address - kau
+-------------------------------------------------------------------
+First Name - dinesh
+Last Name - abey
+Date of Birth - 88900
+Address - kandu
